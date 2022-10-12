@@ -17,3 +17,7 @@ Starting the page will yelid:
 ![image](https://user-images.githubusercontent.com/95401100/195241763-c4bc49ee-973e-444a-a752-7ba0c06419e3.png)
 
 Here we can login to one of the various accounts and access various meeting and financial information about the clubs.
+
+Loging into the treasurer account, we have access to various things like messaging members, adding events, viewing the income statement, etc.
+
+![image](https://user-images.githubusercontent.com/95401100/195242022-615a2425-ff94-442a-b07f-898b5e32f597.png)
