@@ -1,0 +1,10 @@
+.container {
+  border-bottom: 1px solid grey;
+  margin-right: 30px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.userText {
+  margin-left: 10px;
+}

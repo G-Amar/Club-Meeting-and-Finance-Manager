@@ -1,0 +1,17 @@
+#mainFooter {
+  background-color: #e4e4e4;
+}
+
+#footerText {
+
+}
+
+#copyright {
+  text-align: right;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}

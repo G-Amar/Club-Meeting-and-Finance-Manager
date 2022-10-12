@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import '../node_modules/modern-normalize/modern-normalize.css';
+
+:root {
+  font-family: 'Roboto';
+  --neutral-900: #0a0a0b;
+  --neutral-800: #131415;
+  --neutral-700: #3a3a40;
+  --neutral-600: #575760;
+  --neutral-500: #6b6b76;
+  --neutral-200: #f5f5f5;
+  --neutral-100: #fff;
+  --primary-500: #274690;
+  --primary-400: #3560c5;
+
+  --navbar-height: 70px;
+  color: var(--neutral-900);
+}
+
+input,
+label,
+select {
+  display: block;
+}
+
+h1 {
+  padding: 10px;
+  margin: 0px;
+  margin-bottom: 5px;
+  background-color: #dcdcdc;
+}
+
+h2 {
+  padding: 10px;
+  margin: 0px;
+  margin-bottom: 5px;
+  background-color: #dcdcdc;
+}
+
+button, input.submit {
+  display: inline-block;
+  padding: 0.7em 1.2em;
+  margin-top: 20px;
+  border: none;
+  text-decoration: none;
+  color: var(--neutral-100);
+  text-align: center;
+  transition: all 0.1s;
+  background-color: var(--primary-400);
+  cursor: pointer;
+}
+button:hover, input.submit:hover {
+  color: var(--neutral-100);
+  background-color: var(--primary-500);
+}
+
+select {
+  padding: 0.5em 0.7em;
+}
+
+input {
+  padding: 0.5em 0.7em;
+}
+
+textarea {
+  padding: 0.7em;
+}
+
+input.errorField, select.errorField, textarea.errorField {
+  border: 1px solid crimson;
+  border-radius: 3px;
+  outline-color: crimson;
+}

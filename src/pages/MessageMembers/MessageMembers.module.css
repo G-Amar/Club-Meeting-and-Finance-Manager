@@ -1,0 +1,12 @@
+.input, .inputTextarea {
+    width: 400px;
+    display: block;
+}
+
+#MessageForm {
+    margin-left: 15px;
+}
+
+label {
+    line-height: 26px;
+}

@@ -1,0 +1,47 @@
+#overlay-div {
+  width: 100vw;
+  height: 100vh;
+  background-color: #0008;
+  top: 0;
+  left: 0;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  z-index: 1;
+}
+
+#form-div {
+  padding: 10px;
+  background-color: white;
+}
+
+.balancePayment {
+  margin-left: 15px;
+}
+
+header#payment-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+span#header-label {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+span.close {
+  width: 30px;
+  height: 30px;
+  background-color: #fbb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.2s;
+}
+
+span.close:hover {
+  background-color: #f66;
+  font-size: x-large;
+  cursor: pointer;
+}

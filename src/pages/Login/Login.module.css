@@ -1,0 +1,26 @@
+#loginForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 10px;
+}
+
+#loginForm > {
+  margin-top: 10px;
+}
+
+.loginLabel {
+  width: 300px;
+  line-height: 26px;
+}
+
+.loginInput {
+  width: 300px;
+}
+
+.loginButton {
+  margin-top: 20px;
+}

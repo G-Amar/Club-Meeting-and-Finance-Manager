@@ -1,0 +1,51 @@
+#mainNav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: var(--navbar-height);
+  padding: 0 1em;
+  background-color: var(--neutral-200);
+}
+
+.navButtons {
+  color: var(--neutral-600);
+  font-size: 1rem;
+}
+
+.navButtons > * + * {
+  margin-left: 1.5em;
+}
+
+.navButton {
+  text-decoration: none;
+  transition: all 0.3s;
+  color: inherit;
+  position: relative;
+  transition: 0.2s ease-out;
+  padding: 0;
+
+  border: none;
+  background-color: inherit;
+  cursor: pointer;
+}
+
+.navButton::after {
+  content: '';
+  position: absolute;
+  width: 0%;
+  height: 1px;
+  bottom: -5px;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: 0.2s ease-out;
+  background-color: var(--neutral-900);
+}
+
+.navButton:hover {
+  color: var(--neutral-900);
+  background-color: inherit;
+}
+
+.navButton:hover::after {
+  width: 100%;
+}

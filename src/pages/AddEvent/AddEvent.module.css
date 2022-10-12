@@ -1,0 +1,23 @@
+#AddForm {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    align-items: center;
+}
+
+#AddForm input{
+    width: 250px;
+}
+
+#AddForm select{
+    width: 250px;
+}
+
+#AddForm label {
+    width: 250px;
+    align-items: left;
+    line-height: 26px;
+}

@@ -1,0 +1,27 @@
+.registerDiv {
+  text-align: left;
+}
+
+.registerForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.registerForm > {
+  margin-top: 10px;
+}
+
+.registerLabel {
+  width: 300px;
+  line-height: 26px;
+  margin-top: 5px;
+}
+
+.registerInput {
+  width: 300px;
+}
+
+.registerSelect {
+  width: 300px;
+}

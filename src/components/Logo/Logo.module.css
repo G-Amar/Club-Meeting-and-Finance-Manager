@@ -1,0 +1,36 @@
+.logo {
+  color: inherit;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-decoration: none;
+
+  transition: all 0.3s;
+  color: inherit;
+  position: relative;
+  transition: 0.2s ease-out;
+  padding: 0;
+
+  border: none;
+  background-color: inherit;
+  cursor: pointer;
+}
+
+.logo::after {
+  content: '';
+  position: absolute;
+  width: 0%;
+  height: 1px;
+  bottom: -5px;
+  left: 0;
+  transition: 0.2s ease-out;
+  background-color: var(--neutral-900);
+}
+
+.logo:hover {
+  color: var(--neutral-900);
+  background-color: inherit;
+}
+
+.logo:hover::after {
+  width: 100%;
+}

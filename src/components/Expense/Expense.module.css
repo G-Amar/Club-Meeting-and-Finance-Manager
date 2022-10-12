@@ -1,0 +1,12 @@
+#showEx {
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid grey;
+  width: 90%;
+}
+
+#showEx p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
