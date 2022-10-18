@@ -10,7 +10,7 @@ Clone the repository and run `npm start`, this will open up `http://localhost:30
 
 Starting the page will yeild a page where users can login.
 
-To go to the main repository go to https://github.com/HoangNguyen-CA/CPS406-MEM.
+![image](https://user-images.githubusercontent.com/95401100/195241763-c4bc49ee-973e-444a-a752-7ba0c06419e3.png)
 
 Users are authenticated into their accounts, each account has different priveleges and can access different information.
 
