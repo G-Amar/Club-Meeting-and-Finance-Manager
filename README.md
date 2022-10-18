@@ -1,12 +1,6 @@
-# This is a sub-repository
-
-This project is creared with ReactJS.
+This project is creared with ReactJS v17.0.2.
 
 This project is a group collaboration with Hoang Nguyen, Stanley Chow, Aleksandr Gyumushyan, And Ahmad Noori.
-
-Go this repository does not have the node-modules directory in it.
-
-To go to the main repository go to https://github.com/HoangNguyen-CA/CPS406-MEM.
 
 # Start the app
 
