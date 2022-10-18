@@ -10,7 +10,7 @@ Clone the repository and run `npm start`, this will open up `http://localhost:30
 
 Starting the page will yeild a page where users can login.
 
-Users are authenticated into thier accounts, each account has different priveleges and can access different information.
+Users are authenticated into their accounts, each account has different priveleges and can access different information.
 
 Normal club members only have access to sign up for meetings and see what meetings are coming up.
 
