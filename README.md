@@ -2,6 +2,8 @@ This project is creared with ReactJS v17.0.2.
 
 This project is a group collaboration with Hoang Nguyen, Stanley Chow, Aleksandr Gyumushyan, And Ahmad Noori.
 
+To go to the main repository go to https://github.com/HoangNguyen-CA/CPS406-MEM.
+
 # Start the app
 
 Clone the repository and run `npm start`, this will open up `http://localhost:3000`
