@@ -10,6 +10,8 @@ Clone the repository and run `npm start`, this will open up `http://localhost:30
 
 Starting the page will yeild a page where users can login.
 
+To go to the main repository go to https://github.com/HoangNguyen-CA/CPS406-MEM.
+
 Users are authenticated into their accounts, each account has different priveleges and can access different information.
 
 Normal club members only have access to sign up for meetings and see what meetings are coming up.
