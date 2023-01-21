@@ -1,4 +1,4 @@
-This project is creared with ReactJS v17.0.2.
+This project is made with ReactJS v17.0.2.
 
 This project is a group collaboration with Hoang Nguyen, Stanley Chow, Aleksandr Gyumushyan, And Ahmad Noori.
 
