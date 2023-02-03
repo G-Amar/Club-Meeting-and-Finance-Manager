@@ -12,7 +12,7 @@ Starting the page will yeild a page where users can login.
 
 ![image](https://user-images.githubusercontent.com/95401100/195241763-c4bc49ee-973e-444a-a752-7ba0c06419e3.png)
 
-Users are authenticated into their accounts, each account has different priveleges and can access different information.
+Users are authenticated into their accounts, each account has different privileges and can access different information.
 
 Normal club members only have access to sign up for meetings and see what meetings are coming up.
 
